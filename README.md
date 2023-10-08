@@ -9,8 +9,8 @@ Hola, me llamo Alejandro. Estudio Diseño de Aplicaciones web y me apasiona todo
 # En qué programo
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/aleag2407/aleag2407/blob/main/kotlin.png?raw=true" alt="Kotlin" width="150">
-    <img src="https://github.com/aleag2407/aleag2407/blob/main/html.png?raw=true" alt="HTML" width="150">
-    <img src="https://github.com/aleag2407/aleag2407/blob/main/css.png?raw=true" alt="CSS" width="150">
-    <img src="https://github.com/aleag2407/aleag2407/blob/main/js.png?raw=true" alt="JS" width="150">
+    <img src="https://github.com/aleag2407/aleag2407/blob/main/kotlin.png?raw=true" alt="Kotlin" width="100">
+    <img src="https://github.com/aleag2407/aleag2407/blob/main/html.png?raw=true" alt="HTML" width="100">
+    <img src="https://github.com/aleag2407/aleag2407/blob/main/css.png?raw=true" alt="CSS" width="100">
+    <img src="https://github.com/aleag2407/aleag2407/blob/main/js.png?raw=true" alt="JS" width="100">
 </div>
