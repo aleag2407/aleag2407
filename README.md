@@ -17,5 +17,5 @@ Hola, me llamo Alejandro. Estudio Diseño de Aplicaciones web y me apasiona todo
 
 en el apartado de los juegos, mi favorito es omori.
 
-<img align="left" width="150" src="https://github.com/aleag2407/aleag2407/blob/main/icegif-935.gif" alt="omori">
+<img src="https://github.com/aleag2407/aleag2407/blob/main/icegif-935.gif" alt="omori">
 
